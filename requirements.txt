@@ -3,3 +3,6 @@ uvicorn
 pandas
 openpyxl
 python-multipart
+python-dotenv
+openai
+json
