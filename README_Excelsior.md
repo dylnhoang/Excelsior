@@ -1,4 +1,4 @@
-# 📊 Excelsior — AI-Powered Excel Assistant (MVP)
+📊 Excelsior — AI-Powered Excel Assistant (MVP)
 
 Excelsior is a backend system designed to enable natural language interaction with Excel spreadsheets. Users can upload `.xlsx` files and preview their structure via a REST API, setting the foundation for LLM-powered formula generation and data manipulation.
 
@@ -77,3 +77,7 @@ curl http://127.0.0.1:8000/preview-sheet/<file_id>
 - Add authentication and per-user file isolation using Supabase or JWT (Spring Boot)
 - Write unit + integration tests for every route and service layer
 - Dockerize for full backend deployment and dev consistency
+
+🧑‍💻 Author
+
+Created by Dylan Hoang for Project Excelsior 🚀
